@@ -1,0 +1,15 @@
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Power BI temporary files
+*.pbit~
+*.pbix.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
